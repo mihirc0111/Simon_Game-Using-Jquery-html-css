@@ -2,8 +2,13 @@
 To create Simon's game using html,css,jquery.
 
 ## Home Page
+![image](https://user-images.githubusercontent.com/84846378/224002646-ddcf7216-9f41-4383-994b-8d8c511c7d32.png)
 
+## Game Levels
+![image](https://user-images.githubusercontent.com/84846378/224002779-3cbe3e42-1ab6-44d6-a1c5-c2a3b03ae207.png)
 
+Game over
+![image](https://user-images.githubusercontent.com/84846378/224002859-a22b05d3-22f7-4edd-81c5-77b06d954e6f.png)
 
 
 ### Continued development
